@@ -1,0 +1,21 @@
+# Yodha Martial Arts Academy
+
+Official public routes:
+- /
+- /training/
+- /mma-classes-uttarahalli/
+- /kickboxing-muay-thai-uttarahalli/
+- /bjj-classes-uttarahalli/
+- /self-defence-classes-uttarahalli/
+- /gym-strength-conditioning-uttarahalli/
+- /weight-management/
+- /kids-martial-arts-uttarahalli/
+- /personal-coaching-rakesh-yadav/
+- /partnerships/
+- /about-yodha/
+- /pricing/
+- /reviews/
+- /location-uttarahalli/
+- /contact/
+
+Class timings are arranged based on request. Personal coaching with Rakesh Yadav is available.
